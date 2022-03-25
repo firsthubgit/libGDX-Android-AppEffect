@@ -1,5 +1,7 @@
 **by AlexQ （[email](alexq_andr@163.com) alexq_andr@163.com）**
 
+https://www.jianshu.com/p/12d1c0c8e974
+
 ![image](http://7xox5k.com1.z0.glb.clouddn.com/15-12-5/13896084.jpg)
 
 [![Build Status](https://travis-ci.org/qjoy/libGDX-Android-AppEffect.svg?branch=master)](https://travis-ci.org/qjoy/libGDX-Android-AppEffect)
